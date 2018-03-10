@@ -13,7 +13,7 @@ Description: A dplyr-like interface for interacting with the common Bioconductor
     and consistent way of manipulating these classes their accessiblity for new
     Bioconductor users is hopefully increased.
 Depends:
-  R (>= 3.5),
+  R (>= 3.4.2),
   methods,
   BiocGenerics,
   IRanges (>= 2.12.0),
